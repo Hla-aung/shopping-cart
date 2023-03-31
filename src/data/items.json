@@ -1,0 +1,26 @@
+[
+    {
+        "id" : 1,
+        "name" : "Book",
+        "price" : 10.5,
+        "imgUrl" : "/img/books.jpg"
+    },
+    {
+        "id" : 2,
+        "name" : "iMac",
+        "price" : 1200,
+        "imgUrl" : "/img/imac.jpg"
+    },
+    {
+        "id" : 3,
+        "name" : "Shoes",
+        "price" : 120.5,
+        "imgUrl" : "/img/shoes.jpg"
+    },
+    {
+        "id" : 4,
+        "name" : "Earbuds",
+        "price" : 50.5,
+        "imgUrl" : "/img/earbuds.jpg"
+    }
+]
